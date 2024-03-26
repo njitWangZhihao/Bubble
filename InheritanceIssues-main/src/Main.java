@@ -18,10 +18,7 @@ public class Main {
 
         pastEvent.setPaymentDetails("Paid", true);
 
-<<<<<<< HEAD
-        
-=======
->>>>>>> 12fc77bc20549d57ea6c693f0e9b7a63206bb86d
+
         System.out.println(pastEvent);
 
     }
